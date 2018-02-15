@@ -6502,7 +6502,8 @@
 (^|\.)zyzc9\.com$
 (^|\.)zzcartoon\.com$
 (^|\.)zzux\.com$
-(^|\.)\.com$
+(^|\.)hostloc\.com$
+(^|\.)wnu\.com$
 
 # Kakao Talk
 (^|\.)kakao\.com$
