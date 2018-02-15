@@ -13,5 +13,6 @@ gfwlist-banAD.acl |  直连  |   是   |  直连  |    无      |    无        
 fullgfwlist.acl   |  直连  |   否   |  直连  |    无      |    无         |  代理-gfwlist列表
 gfwlist-user.rule |  直连  |   是   |  直连  |    无      |     无        |  代理-gfwlist列表
 
-#更新地址
-更新地址（gfwlist-banAD.acl）：https://raw.githubusercontent.com/ben-august/MYACL/master/gfwlist-banAD.acl
+#下载地址（downloadlink）
+
+*更新地址（gfwlist-banAD.acl）：https://raw.githubusercontent.com/ben-august/MYACL/master/gfwlist-banAD.acl
